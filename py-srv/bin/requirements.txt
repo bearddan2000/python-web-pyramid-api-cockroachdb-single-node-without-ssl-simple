@@ -1,0 +1,4 @@
+pyramid
+sqlalchemy
+sqlalchemy-cockroachdb
+psycopg2
